@@ -1,6 +1,7 @@
 # Job Application Tracker
 
 A Streamlit-based application that automatically analyzes your job application emails using AI to track responses, categorize feedback, and provide insights into your job search progress.
+I did this project because for oen of my job applicatians was posititve but I didn't notice because of lats of negative answers and I lost the good one :(
 
 ## Features
 
