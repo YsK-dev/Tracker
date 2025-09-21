@@ -170,3 +170,13 @@ This project is for personal use. Please ensure compliance with Gmail's Terms of
 - Currently supports Gmail only (IMAP)
 - Processes last 7 days of emails only
 - Limited to 30 most recent emails for performance
+- Requires active internet connection
+- Dependent on OpenRouter API availability
+
+## Future Enhancements
+
+- Support for other email providers
+- Extended date range options
+- Email template generation for follow-ups
+- Integration with job boards and applicant tracking systems
+- Advanced analytics and reporting features
